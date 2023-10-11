@@ -1,43 +1,34 @@
-<h1 align="center"> DevLinks </h1>
-
-<p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
-</p>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-<br>
-
-<p align="center">
-  <img alt="Projeto Devlinks" src=".Github/preview.jpg" width="100%">
-</p>
+# Desafio Frontend Mentor - Profile card 
+Descrição da tarefa: Esse exercício é uma ALTERNATIVA ao desafio do frontend mentor. Onde o principal desafio é criar um cartão que contenha as informações de perfil. Para ser aprimorado as habilidades de posicionamento de elementos usando flexbox. 💻
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
-- JavaScript
-- Git e Github
-- Figma
+- HTML
+- CSS
+
 
 ## 💻 Projeto
 
-O Dev links é um agregador de links para usar como cartão de visita online.
+O Profile Card é um cartão que contém as informações de perfil de um profissional. 
+
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321/devlinks-projeto-discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://humane-legend-9f9.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fafdd7e4f-9943-4a29-927e-3be7a9f6d816%2FUntitled.png?table=block&id=2389480b-ea93-4a7b-957e-9e6fb1d8e8aa&spaceId=9ef6022d-330d-439e-8ddf-45bc80717149&width=1510&userId=&cache=v2). 
 
-## :memo: Licença
 
-Esse projeto está sob a licença MIT.
+![](../01%20profile-card-component-main/design/desktop-design.jpg)
+
+
+## 📃 Proposta
+
+### O que aprendi
+
+Aprendi através da proposta do desafio a melhor utilizar as propriedades do flexbox.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito por Luidy Camara
+
